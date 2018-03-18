@@ -1,0 +1,2 @@
+-install psycopg2 to use postgres with python
+-create a database before you run the script (name it invest or change the parameter in the “connect” function in the script

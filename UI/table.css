@@ -1,18 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
 
-*, *:before, *:after 
+*, *:before, *:after
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body 
+body
 {
     background: #263238;
     font-family: 'Open Sans', sans-serif;
 }
-table 
+table
 {
     background: #012B39;
     border-radius: 0.25em;
@@ -20,7 +20,7 @@ table
     margin-left: 200px;
     margin-top: 100px;
 }
-th 
+th
 {
     border-bottom: 1px solid #364043;
     color: #E2B842;
@@ -29,23 +29,21 @@ th
     padding: 0.5em 1em;
     text-align: left;
 }
-td 
+td
 {
     color: #fff;
     font-weight: 400;
     padding: 0.65em 1em;
 }
-.disabled td 
+.disabled td
 {
     color: #4F5F64;
 }
-tbody tr 
+tbody tr
 {
     transition: background 0.25s ease;
 }
-tbody tr:hover 
+tbody tr:hover
 {
     background: #014055;
 }
-
-

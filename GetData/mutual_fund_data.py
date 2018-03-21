@@ -1,4 +1,6 @@
 import psycopg2
+from bs4 import BeautifulSoup
+from requests import get
 
 conn = psycopg2.connect(host="localhost",database="invest", user="malaika", password="")
 conn.autocommit = True
@@ -21,9 +23,6 @@ cur.execute(command)
 alter_command="""UPDATE Mutual_Funds
                 set price={},three_mo_ret={},ytd_ret={}
                 where fund_code={}"""
-
-from bs4 import BeautifulSoup
-from requests import get
 
 offset=0
 links=[]

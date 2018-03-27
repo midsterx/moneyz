@@ -21,7 +21,7 @@ select_historic_command="""SELECT timestamp, close,company_id
                             from nse_stocks
                             where company_id={}"""
 
-with open('/Users/malaika/Desktop/auxDBMS/newcsv.csv','r') as fp:
+with open('/Users/malaika/Desktop/auxDBMS/stocks_meta.csv','r') as fp:
     with open ('/Users/malaika/Desktop/auxDBMS/stocks.csv','w') as f:
         writer=csv.writer(f)
         records=csv.reader(fp)

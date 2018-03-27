@@ -5,9 +5,11 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="nav-bar.css">
 		<link rel="stylesheet" type="text/css" href="table.css">
+		<link rel="stylesheet" type="text/css" href="search-bar.css">
+		<link rel="stylesheet" type="text/css" href="filter.css">
+  		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	</head>
 	<body>
-
 		<nav>
 			<a href="#">Stocks</a>
 			<a href="#">My Profile</a>
@@ -28,6 +30,40 @@
 			 ?>
 			<div class="animation start-home"></div>
 		</nav>
+		<div id="search">
+			<form method="get" action="/search" id="searchbox">
+				<input id="searchmain" name="q" type="text" size="40" placeholder="Search..." />
+			</form>
+		</div>
+		<div id="wrap">
+			<div id="dropdown" class="ddmenu">
+			User Settings
+				<ul>
+					<li><a href="#">My Profile</a></li>
+					<li><a href="#">Friend Requests</a></li>
+					<li><a href="#">Account Settings</a></li>
+					<li><a href="#">Support</a></li>
+					<li><a href="#">Log Out</a></li>
+			  	</ul>
+			</div>
+		</div>
+		<script type="text/javascript">
+			$("#dropdown").on("click", function(e)
+			{
+				e.preventDefault();
+
+				if($(this).hasClass("open"))
+				{
+					$(this).removeClass("open");
+					$(this).children("ul").slideUp("fast");
+			  	}
+			  	else
+			  	{
+					$(this).addClass("open");
+					$(this).children("ul").slideDown("fast");
+			  	}
+			});
+		</script>
 		<table>
 		    <thead>
 			    <tr>

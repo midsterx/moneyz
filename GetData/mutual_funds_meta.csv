@@ -1,0 +1,1800 @@
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+CCRFX,Columbia Contrarian Core K,N/A
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+CCRFX,Columbia Contrarian Core K,N/A
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+FREAX,Nuveen Real Estate Securities A,Real Estate
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+CGRUX,Columbia Global Strategic Equity K,N/A
+CRMSX,CRM Small Cap Value Inv,Small Blend
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+CCRFX,Columbia Contrarian Core K,N/A
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+CGRUX,Columbia Global Strategic Equity K,N/A
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CGRUX,Columbia Global Strategic Equity K,N/A
+CRMSX,CRM Small Cap Value Inv,Small Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+CGRUX,Columbia Global Strategic Equity K,N/A
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+CGRUX,Columbia Global Strategic Equity K,N/A
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+CCRFX,Columbia Contrarian Core K,N/A
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+MXXVX,Matthew 25,Large Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+TDVFX,Towle Deep Value,Small Value
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSKX,AB Discovery Value K,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+FSRFX,Fidelity Select Transportation,Industrials
+NWGPX,Nationwide WCM Focused Sm Cp A,Small Blend
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value
+NWGQX,Nationwide WCM Focused Sm Cp C,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+UMPSX,ProFunds UltraMid Cap Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CRMSX,CRM Small Cap Value Inv,Small Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+NSCCX,Nuveen NWQ Small-Cap Value C,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NSCFX,Nuveen NWQ Small-Cap Value R6,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+TEEAX,RBC Small Cap Core A,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+MXXVX,Matthew 25,Large Blend
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FSCCX,Nuveen Small Cap Value I,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+FSCAX,Nuveen Small Cap Value A,Small Value
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+FOSBX,Tributary Small Company Instl Plus,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+RBRCX,RBC Small Cap Core R6,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+CCRFX,Columbia Contrarian Core K,N/A
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTAX,Meeder Quantex Adviser,Mid-Cap Value
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+BPSIX,Boston Partners Small Cap Value II I,Small Value
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+FLCGX,Meeder Quantex Retail,Mid-Cap Value
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+TRDFX,Crossmark Steward Sm-Md Cp Enh Idx A,Small Blend
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+UMPIX,ProFunds UltraMid Cap Inv,Trading--Leveraged Equity
+CGRUX,Columbia Global Strategic Equity K,N/A
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+BPEAX,BP Capital TwinLine Energy A,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FANIX,Fidelity Advisor Energy I,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+FSENX,Fidelity Select Energy,Equity Energy
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Mid-Cap Blend
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+NESIX,Needham Small Cap Growth Institutional,Small Growth
+ABSIX,AB Discovery Value I,Mid-Cap Value
+JMCRX,James Micro Cap,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABSZX,AB Discovery Value Z,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+ABASX,AB Discovery Value A,Mid-Cap Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+TRACX,Prudential QMA Small-Cap Value C,Small Value
+VGELX,Vanguard Energy Adm,Equity Energy
+VGELX,Vanguard Energy Adm,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+VGENX,Vanguard Energy Inv,Equity Energy
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMEYX,Victory Integrity Discovery Y,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+MMERX,Victory Integrity Discovery R,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+FSCRX,Fidelity Small Cap Discovery,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+ABYSX,AB Discovery Value Advisor,Mid-Cap Value
+MMEAX,Victory Integrity Discovery A,Small Blend
+MMEAX,Victory Integrity Discovery A,Small Blend
+NOSGX,Northern Small Cap Value,Small Value
+NOSGX,Northern Small Cap Value,Small Value
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+NWKEX,Nationwide WCM Focused Sm Cp R6,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+FPVSX,Frontier Phocas Small Cap Value Service,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+KMKNX,Kinetics Market Opportunities No Load,Financial
+KMKNX,Kinetics Market Opportunities No Load,Financial
+KMKNX,Kinetics Market Opportunities No Load,Financial
+KMKNX,Kinetics Market Opportunities No Load,Financial
+QNTIX,Meeder Quantex Institutional,Mid-Cap Value
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+DPSYX,Dreyfus Structured MidCap Y,Mid-Cap Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+FPSVX,Frontier Phocas Small Cap Value Instl,Small Blend
+KMKYX,Kinetics Market Opportunities Inst,Financial
+KMKYX,Kinetics Market Opportunities Inst,Financial
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+DISIX,Dreyfus Small Cap Stock Index I,Small Blend
+BNQCX,UBS US Sustainable Equity C,Large Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+DISSX,Dreyfus Small Cap Stock Index Inv,Small Blend
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+TPVIX,Timothy Plan Small Cap Value I,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+WHGSX,Westwood SmallCap Institutional,Small Blend
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+AIAGX,Alpine Realty Income & Growth A,Real Estate
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+HRMVX,Harbor Mid Cap Value Admin,Mid-Cap Value
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+CSCVX,CornerCap Small-Cap Value Investor,Small Value
+VTSIX,Vanguard Tax-Managed Small Cap I,Small Blend
+KMKNX,Kinetics Market Opportunities No Load,Financial
+TORZX,Toreador Core Institutional,Large Blend
+TORZX,Toreador Core Institutional,Large Blend
+TORZX,Toreador Core Institutional,Large Blend
+TORZX,Toreador Core Institutional,Large Blend
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HIMVX,Harbor Mid Cap Value Investor,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+HNMVX,Harbor Mid Cap Value Retirement,Mid-Cap Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+GSXIX,Aberdeen US Small Cap Equity Inst Svc,Small Growth
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+FTUCX,Fidelity Advisor Telecommunications C,Communications
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SCECX,Crossmark Steward Sm-Md Cp Enh Idx Instl,Small Blend
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+SPRAX,Prudential QMA Mid-Cap Value A,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SDVRX,Prudential QMA Mid-Cap Value R,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+SPVZX,Prudential QMA Mid-Cap Value Z,Mid-Cap Value
+WBVDX,William Blair Small Cap Value N,Small Blend
+WBVDX,William Blair Small Cap Value N,Small Blend
+AASSX,American Beacon Small Cp Val Adv,Small Value
+AASSX,American Beacon Small Cp Val Adv,Small Value
+AASSX,American Beacon Small Cp Val Adv,Small Value
+AASSX,American Beacon Small Cp Val Adv,Small Value
+FREAX,Nuveen Real Estate Securities A,Real Estate
+AVFIX,American Beacon Small Cp Val Inst,Small Value
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+SSCVX,Columbia Select Smaller-Cap Value A,Small Blend
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+NCBVX,Prudential QMA Mid-Cap Value C,Mid-Cap Value
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FSHOX,Fidelity Select Construction & Hsg Port,Mid-Cap Growth
+FRSSX,Nuveen Real Estate Securities R3,Real Estate
+FARCX,Nuveen Real Estate Securities I,Real Estate
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+CSSZX,Columbia Select Smaller-Cap Value Inst,Small Blend
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FSCWX,Nuveen Small Cap Value R6,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+BVDIX,William Blair Small Cap Value I,Small Blend
+FSCVX,Nuveen Small Cap Value C,Small Value
+FSCVX,Nuveen Small Cap Value C,Small Value
+ASCTX,AMG Managers Silvercrest Small Cap N,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+PVIVX,Paradigm Micro-Cap,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+PVIVX,Paradigm Micro-Cap,Small Blend
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+NEAGX,Needham Aggressive Growth Retail,Small Growth
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+DHMAX,Diamond Hill Small-Mid Cap A,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+NEAIX,Needham Aggressive Growth Institutional,Small Growth
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FCVAX,Fidelity Advisor Small Cap Value A,Small Value
+FACSX,Nuveen Mid Cap Value C,Mid-Cap Value
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+CCRFX,Columbia Contrarian Core K,N/A
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+CCRFX,Columbia Contrarian Core K,N/A
+KMKNX,Kinetics Market Opportunities No Load,Financial
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+GASFX,Hennessy Gas Utility Investor,Utilities
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+CSCJX,CornerCap Small-Cap Value Institutional,Small Value
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FTUIX,Fidelity Advisor Telecommunications I,Communications
+FSTCX,Fidelity Select Telecommunications Port,Communications
+AVPAX,American Beacon Small Cp Val Inv,Small Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+SVUBX,Prudential QMA Mid-Cap Value B,Mid-Cap Value
+BVDIX,William Blair Small Cap Value I,Small Blend
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+FMPOX,Fidelity Advisor Mid Cap Value I,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+FMPEX,Fidelity Advisor Mid Cap Value C,Mid-Cap Value
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+SSQSX,State Street Instl Small-Cap Equity Svc,Small Blend
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPIX,ProFunds UltraSector Oil & Gas Investor,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+ENPSX,ProFunds UltraSector Oil & Gas Svc,Trading--Leveraged Equity
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
+NWGSX,Nationwide WCM Focused Sm Cp Instl Svc,Small Blend
